@@ -1,4 +1,4 @@
-# NixOS AMIs
+ # NixOS AMIs
 
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/arianvp/amis/badge)](https://securityscorecards.dev/viewer/?uri=github.com/arianvp/amis)
 
